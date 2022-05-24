@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "todos",
+      "isCompleted": false
+    },
+    {
+      "text": "bhaveash",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "text": "shubham",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "text": "prem",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "text": "vishal",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "text": "hello",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "shubh",
+      "isCompleted": false,
+      "id": 7
+    }
+  ]
+}
